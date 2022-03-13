@@ -16,7 +16,7 @@
       name: 'JavaPub突击面试',
       repo: 'https://gitee.com/rodert/rodert',
       maxLevel: 5,//最大支持渲染的标题层级
-      subMaxLevel: 3,//侧边栏最大层级
+      subMaxLevel: 1,//侧边栏最大层级
       homepage: 'README.md',
       coverpage: true,//封面
       loadSidebar: true,//开启侧边栏
@@ -51,5 +51,12 @@
   <!-- 分页导航 -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <!-- 页面滚动 -->
+  <script src="//unpkg.com/docsify-scroll-to-top/dist/docsify-scroll-to-top.min.js"></script>
+  <style type="text/css">
+    .content {
+      overflow: auto;
+    }
+  </style>    
 </body>
 </html>
