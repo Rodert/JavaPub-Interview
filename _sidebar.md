@@ -7,3 +7,4 @@
 - [PDF](/)
     - [ffmpeg](/)
         * [rodert教你学FFmpeg实战这一篇就够了](src/course/ffmpeg.md)
+        * [rodert教你学Maven这一篇就够了](src/course/maven.md)
