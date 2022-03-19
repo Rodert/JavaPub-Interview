@@ -1,6 +1,5 @@
-rodert教你学Zookeeper-实战这一篇就够了
-
 [toc]
+
 # 前言
 
 > 声明：参考来源互联网，有任何争议可以留言。站在前人的肩上，我们才能看的更远。
@@ -86,7 +85,7 @@ Zookeeper能完美解决分布式协调服务这个问题
 
 Zookeeper维护一个类似文件系统的数据结构：
 
-![image-20200514142639872](https://wx1.sinaimg.cn/bmiddle/007F3CC8ly1h0egcr9qg3j30dz0hhmz6.jpg)
+![image-20200514142639872](https://tvax2.sinaimg.cn/mw690/007F3CC8ly1h0ffx82perj30dz0hhgnl.jpg)
 
 ## 2.3. 监听通知机制
 
@@ -101,7 +100,7 @@ zookeeper功能非常强大，可以实现诸如分布式应用配置管理、�
 
 
 
-![Zookeeper整体架构](https://wx3.sinaimg.cn/bmiddle/007F3CC8ly1h0egd9yxs6j314k0dpq72.jpg)
+![Zookeeper整体架构](https://tva3.sinaimg.cn/mw690/007F3CC8ly1h0ffxlov46j314k0dpn10.jpg)
 
 
 
@@ -568,7 +567,4 @@ numChildren = 0
 
 > 客户端同步如下:
 > 配置已修改，新值为：javapub-rodert
-
-
-![](https://wx2.sinaimg.cn/bmiddle/007F3CC8ly1h0ed7gio11j3076076q38.jpg)
 
