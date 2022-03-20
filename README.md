@@ -20,7 +20,14 @@
 
 国内在线阅读地址: https://rodert.gitee.io/javapub-interview/
 
+
+**关于我：**
+
 ![JavaPub-同名公众号](https://tva2.sinaimg.cn/mw690/007F3CC8ly1h0fezz6g4lj3076076glw.jpg)
+
+
+**这是我：**
+
 
 ![作者](https://tvax3.sinaimg.cn/mw690/007F3CC8ly1h0feyu0o75j30u0140td5.jpg)
 
