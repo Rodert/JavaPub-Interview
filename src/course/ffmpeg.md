@@ -1,5 +1,7 @@
 ## rodert教你学FFmpeg实战这一篇就够了
 
+![J1qfG6](https://tva2.sinaimg.cn/mw690/007F3CC8ly1h0gqhsk08ej30tm0coq98.jpg)
+
 [toc]
 
 ## 前言
