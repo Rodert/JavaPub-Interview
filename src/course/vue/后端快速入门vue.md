@@ -55,3 +55,11 @@
  ![vue目录结构](https://tva4.sinaimg.cn/mw690/007F3CC8ly1h0fguljziej30ng0ron6v.jpg)
 
 # 3.VSCode 插件
+
+vetur
+
+![image](https://tvax1.sinaimg.cn/large/007F3CC8ly1h0nlhrmr2aj31hc0scwxw.jpg)
+
+live server
+
+![image](https://tvax1.sinaimg.cn/large/007F3CC8ly1h0nljiqbtcj31hc0sce38.jpg)
