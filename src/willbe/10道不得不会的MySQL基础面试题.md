@@ -143,11 +143,12 @@ mysql 还有个问题是 select… for update 语句执行中，如果数据表�
 
 系列面试题
 
-【Java并发面试】10道不得不会的Java并发基础面试题
-https://blog.csdn.net/qq_40374604/article/details/122159231
+[【Java基础】10道不得不会的Java基础面试题](https://mp.weixin.qq.com/s/3Nviyml0cvnX_HHkZ5DjWg)
 
-【Java基础面试】10道不得不会的Java基础面试题
-https://blog.csdn.net/qq_40374604/article/details/122011870
+[【Java并发】10道不得不会的Java并发基础面试题](https://mp.weixin.qq.com/s/h2tTwDVqL15rCI6rftgn9A)
 
-【MySQL面试】10道不得不会的MySQL基础面试题
-https://javapub.blog.csdn.net/article/details/122087243
+[【MySQL】10道不得不会的MySQL基础面试题](https://mp.weixin.qq.com/s/yVPwCoSQ-8OYvhw8bH0PtA)
+
+[【ElasticSearch】10道不得不会的ElasticSearch面试题](https://mp.weixin.qq.com/s/z3D37HqeTUmwrdheUL_Efw)
+
+[【JVM】10道不得不会的JVM面试题](https://gitee.com/rodert/JavaPub)

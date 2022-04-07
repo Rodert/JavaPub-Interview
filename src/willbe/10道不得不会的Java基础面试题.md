@@ -629,14 +629,16 @@ Employee emp5 = (Employee) in.readObject();
 
 
 > 查看更多面试题及答案
-> ![wx](https://img-blog.csdnimg.cn/20210126205030521.jpg)
+> ![image](https://tvax3.sinaimg.cn/large/007F3CC8ly1h11lc8tbdbj3076076gm7.jpg)
+
 # 推荐阅读：
 
-【Java并发面试】10道不得不会的Java并发基础面试题
-https://blog.csdn.net/qq_40374604/article/details/122159231
+[【Java基础】10道不得不会的Java基础面试题](https://mp.weixin.qq.com/s/3Nviyml0cvnX_HHkZ5DjWg)
 
-【Java基础面试】10道不得不会的Java基础面试题
-https://blog.csdn.net/qq_40374604/article/details/122011870
+[【Java并发】10道不得不会的Java并发基础面试题](https://mp.weixin.qq.com/s/h2tTwDVqL15rCI6rftgn9A)
 
-【MySQL面试】10道不得不会的MySQL基础面试题
-https://javapub.blog.csdn.net/article/details/122087243
+[【MySQL】10道不得不会的MySQL基础面试题](https://mp.weixin.qq.com/s/yVPwCoSQ-8OYvhw8bH0PtA)
+
+[【ElasticSearch】10道不得不会的ElasticSearch面试题](https://mp.weixin.qq.com/s/z3D37HqeTUmwrdheUL_Efw)
+
+[【JVM】10道不得不会的JVM面试题](https://gitee.com/rodert/JavaPub)
