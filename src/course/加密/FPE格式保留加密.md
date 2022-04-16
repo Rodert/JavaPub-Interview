@@ -83,3 +83,5 @@ FF1和FF3算法定义的部分函数如下表，
 - https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-38Gr1-draft.pdf
 - https://csrc.nist.gov/CSRC/media/Projects/Cryptographic-Standards-and-Guidelines/documents/examples/FF1samples.pdf
 
+![image](https://tvax3.sinaimg.cn/large/007F3CC8ly1h1bkjvu3qzj30me09h0uw.jpg)
+
