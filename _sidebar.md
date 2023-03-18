@@ -29,5 +29,5 @@
         * [桶排序就是这么简单](src/course/排序算法/桶排序.md)
 - [硬核源码解析](/)
     - [Spring](/)
-        * [Spring 源码分析--调试环境搭建](src/course/ffmpeg.md)
-        * [Spring 源码分析--调试环境搭建](src/course/ffmpeg.md)
+        * [Spring 源码分析--调试环境搭建](src/sc/spring/01.md)
+        * [Spring 源码分析--调试环境搭建](src/sc/spring/ffmpeg.md)
