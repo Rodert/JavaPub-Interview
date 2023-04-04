@@ -29,7 +29,12 @@
         * [桶排序就是这么简单](src/course/排序算法/桶排序.md)
 - [硬核源码解析](/)
     - [spring](/)
-        * [Spring 源码分析--调试环境搭建](src/sc/spring/01.md)
-
+        * [Spring源码分析--调试环境搭建](src/sc/spring/01.md)
+        * [SpringIOC源码分析之深入理解IOC](src/sc/spring/02.md)
+        * [IoC之Spring统一资源加载策略](src/sc/spring/03.md)
+        * [IoC之Spring加载BeanDefinition](src/sc/spring/04.md)
+        * [IoC之Spring获取验证模型](src/sc/spring/05.md)
+    - [spring-mvc](/)
+        * [搭建SpringMVC源码调试环境](src/sc/spring-mvc/01.md)
 
 
