@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-国内可访问的 ChatGPT：[点击访问](http://chatgpt.daxiangyun.net/)
+国内可访问的 **ChatGPT**：[点击访问](http://chatgpt.daxiangyun.net/)
 
 
 ---
