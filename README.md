@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-最新最全浏览地址：[https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUzNDUyOTY0Nw==&action=getalbum&album_id=2344061143381508097#wechat_redirect](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUzNDUyOTY0Nw==&action=getalbum&album_id=2344061143381508097#wechat_redirect)
+
+国内可访问的 ChatGPT：[点击访问](http://chatgpt.daxiangyun.net/)
+
 
 ---
+
+[ChatGPT](https://github.com/Rodert/ChatGPT)
 
 [微信公众号：JavaPub](https://mp.weixin.qq.com/s/selkBT2ilq0KdA9KjO7ZLA)
 
