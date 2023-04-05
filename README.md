@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 
 
 
-## 当前目录：
+<!-- ## 当前目录： -->
 
 1. [springbootfirstdemo 【springboot入门初始化】](https://github.com/Rodert/SpringBoot-javapub/tree/main/springbootfirstdemo)
 2. [spring-boot整合MyBatis批量更新](https://github.com/Rodert/SpringBoot-javapub/tree/main/spring-boot-mybatis)
@@ -114,6 +114,11 @@ Here are some ideas to get you started:
 
 
 
+## 赞赏
 
+有小伙伴希望可以放一个赞赏码，今天就加了一个，当然我们的所有源码解析，实战教程，硬核面试题一如既往的免费分享给每一个支持 JavaPub 的小伙伴，祝愿大家在新的一年芝麻开花节节高。
 
+[微信收款码](https://ghproxy.com/https://raw.githubusercontent.com/Rodert/JavaPub-Interview/main/img/money-receiving-qr-code.jpg?raw=true)
+
+[微信收款码](https://github.com/Rodert/JavaPub-Interview/blob/main/img/money-receiving-qr-code.jpg)
 
