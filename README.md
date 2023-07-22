@@ -31,13 +31,13 @@
 
 **关于我：**
 
-![JavaPub-同名公众号](https://ghproxy.com/https://raw.githubusercontent.com/Rodert/JavaPub-Interview/main/img/wechat.png?raw=true)
+![JavaPub-同名公众号](./img/wechat.png)
 
 
 **这是我：**
 
 
-![作者](https://ghproxy.com/https://raw.githubusercontent.com/Rodert/JavaPub-Interview/main/img/wsy_qhd.png?raw=true)
+![作者](./img/wsy_qhd.png)
 
 
 <!--
@@ -118,8 +118,8 @@ Here are some ideas to get you started:
 
 有小伙伴希望可以放一个赞赏码，今天就加了一个，当然我们的所有源码解析，实战教程，硬核面试题一如既往的免费分享给每一个支持 JavaPub 的小伙伴，祝愿大家在新的一年芝麻开花节节高。
 
-<img src="https://ghproxy.com/https://raw.githubusercontent.com/Rodert/JavaPub-Interview/main/img/money-receiving-qr-code.jpg?raw=true" width="20%">
+<img src="./img/money-receiving-qr-code.jpg" width="20%">
 
 
-<img src="https://github.com/Rodert/JavaPub-Interview/blob/main/img/money-receiving-qr-code.jpg" width="20%">
+<img src="./img/money-receiving-qr-code.jpg" width="20%">
 
