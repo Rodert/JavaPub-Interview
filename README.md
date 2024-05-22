@@ -109,8 +109,8 @@ Here are some ideas to get you started:
 
 #### spring
 
-1. [firstSpringProject 【spring初始化工程】](firstSpringProject)
-2. [ssm_helloworld_web 【SSM整合】](ssm_helloworld_web)
+1. [firstSpringProject 【spring初始化工程】](https://github.com/Rodert/SpringBoot-javapub/tree/main/firstSpringProject)
+2. [ssm_helloworld_web 【SSM整合】](https://github.com/Rodert/SpringBoot-javapub/tree/main/ssm_helloworld_web)
 
 
 
